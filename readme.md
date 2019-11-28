@@ -1,0 +1,1 @@
+mongod to start mongo server
